@@ -1,0 +1,8 @@
+Accessory
+Camping
+Communications
+Maintenance
+Material
+Other
+SkillBook
+Unknown
